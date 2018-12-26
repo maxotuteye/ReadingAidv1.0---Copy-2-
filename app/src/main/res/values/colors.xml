@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#7e8bcc</color>
+    <color name="colorPrimaryDark">#4552a8</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="READING">#da333e</color>
+    <color name="LESSRED">#e9515b</color>
+    <color name="ggg">#a5a4a4</color>
+    <color name="LESSerRED">#f55b65</color>
+    <color name="gggfff">#cdcccc</color>
+
+    <color name="black_overlay">#66000000</color>
+</resources>

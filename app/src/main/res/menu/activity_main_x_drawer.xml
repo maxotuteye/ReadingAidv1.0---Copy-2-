@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/openFile"
+            android:title="Open file"
+            android:icon="@drawable/folder_open"/>
+        <item
+            android:id="@+id/newFile"
+            android:title="New file"
+            android:icon="@drawable/border_color"/>
+
+
+    </group>
+
+   <item
+       android:title="Text Tools">
+
+        <menu>
+            <item
+                android:id="@+id/srch"
+                android:title="Search"
+                android:icon="@drawable/magnify_plus_outline"/>
+        <item
+            android:id="@+id/summary"
+            android:title="Summary"
+            android:icon="@drawable/format_text"/>
+        <item
+            android:id="@+id/about"
+            android:title="Gist"
+            android:icon="@drawable/information_variant"/>
+        </menu>
+
+   </item>
+    <item
+        android:title="OCR Tools" >
+        <menu>
+            <item
+                android:id="@+id/scanText"
+                android:icon="@drawable/ic_menu_camera"
+                android:title="Scan Text" />
+            <item
+                android:id="@+id/calculate"
+                android:title="Scan Equation"
+                android:icon="@drawable/camera_enhance"/>
+            <item
+                android:id="@+id/lsc"
+                android:title="Load Recharge Card"
+                android:icon="@drawable/phone_log"/>
+            <item
+                android:id="@+id/dialer"
+                android:title="Add/Call Contact"
+                android:icon="@drawable/camera_account" />
+
+        </menu>
+    </item>
+    <item
+        android:title="Extras" >
+        <menu>
+
+
+            <item
+                android:id="@+id/locBShops"
+                android:title="Locate Bookshops"
+                android:icon="@drawable/map_marker_plus"/>
+        </menu>
+
+    </item>
+
+
+
+
+    <item
+        android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Connect With Us" />
+        </menu>
+    </item>
+
+</menu>

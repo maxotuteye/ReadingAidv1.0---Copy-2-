@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "347721598385",
+    "firebase_url": "https://reading-aid-2d0fc.firebaseio.com",
+    "project_id": "reading-aid-2d0fc",
+    "storage_bucket": "reading-aid-2d0fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347721598385:android:58006743f5e82b91",
+        "android_client_info": {
+          "package_name": "reader.com.readingaidv10"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347721598385-6lcndhqu5gi12osih9h6sqm1jm2umn0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiFp6nytIKTeClePLdh-ZasJzWs8b3NOo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

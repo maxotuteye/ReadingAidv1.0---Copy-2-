@@ -1,0 +1,44 @@
+<result>
+      <text>Delicious food. Disappointing staff.</text>
+      <domain>restaurants</domain>
+      <aspects>
+        <aspect>
+          <name>food</name>
+          <aspect_confidence>0.9835863709449768</aspect_confidence>
+          <polarity>positive</polarity>
+          <polarity_confidence>0.9158669114112854</polarity_confidence>
+        </aspect><aspect>
+          <name>staff</name>
+          <aspect_confidence>0.9649683833122253</aspect_confidence>
+          <polarity>negative</polarity>
+          <polarity_confidence>0.9941180944442749</polarity_confidence>
+        </aspect>
+      </aspects>
+      <sentences>
+        <sentence>
+          <text>Delicious food.</text>
+          <polarity>positive</polarity>
+          <polarity_confidence>0.9158669114112854</polarity_confidence>
+          <aspects>
+          <aspect>
+              <name>food</name>
+              <aspect_confidence>0.9835863709449768</aspect_confidence>
+              <polarity>positive</polarity>
+              <polarity_confidence>0.9158669114112854</polarity_confidence>
+            </aspect>
+          </aspects>
+        </sentence><sentence>
+          <text>Disappointing staff.</text>
+          <polarity>negative</polarity>
+          <polarity_confidence>0.9941180944442749</polarity_confidence>
+          <aspects>
+          <aspect>
+              <name>staff</name>
+              <aspect_confidence>0.9649683833122253</aspect_confidence>
+              <polarity>negative</polarity>
+              <polarity_confidence>0.9941180944442749</polarity_confidence>
+            </aspect>
+          </aspects>
+        </sentence>
+      </sentences>
+    </result>

@@ -1,0 +1,43 @@
+<result>
+      <title>Google wants to turbocharge articles loading on phones</title>
+      <article>The supermarket checkout line: A prime place to catch up on the news by reading through an article on your smartphone. But not if the story hasn't finished loading by the time you get to the cashier.
+
+Yes, it's a trivial problem. But it's still annoying, and it's something Google thinks it can fix.
+
+Starting Wednesday, whenever you search for an article or topic on Google using a mobile Web browser, Google will begin to link to Accelerated Mobile Pages, or AMP for short. The company says AMP pages load four times faster and take up 10 times less wireless data than a regular article page. It does this by loading the elements of an article more efficiently. For example, not loading an image at the bottom of an article until someone scrolls down to it, so the top of the story can load more quickly.
+
+The project is open source, meaning anyone can use it. Right now, the publishers working with this system include The New York Times, BuzzFeed, The Guardian and the BBC. Facebook in May began offering a similar product, called Instant Articles, for stories posted to its social network.
+
+&quot;It really changes your expectations for how you interact with content on the Web, and, frankly, search results,&quot; said Rudy Galfi, a Google product manager.
+
+It may not seem like much to write home about, but the implications are massive. As people's lives have increasingly begun to revolve around phones, they expect websites to have a snappy and slick feel, similar to mobile apps. These new kinds of article pages are the industry's answer: offer a way to load sites quickly and display them with an app-like feel.
+
+Of course, Google's search engine is such a fundamental part of the Internet that it's a big deal whenever the company messes with the formula.
+
+For now, Google is working with &quot;hundreds&quot; of publishers. Because the project is open source, Google said it doesn't know how many publishers and bloggers are using it. There's reason to watch what happens. Facebook, which also started out only working with a small group of publishers on Instant Articles, saw so much success that it will open the program up to everyone in April.
+
+&quot;We're seeing great engagement from that,&quot; Facebook COO Sheryl Sandberg said in a January conference call, referring to the frequency at which people read Instant Articles.
+
+Google, a division of parent company Alphabet, first announced AMP in October. The format allows pages to load faster by rethinking how article pages for smartphones are coded. Typically, different elements load one after another, so first your phone might download the ads, then the text, then photos. With AMP, each piece loads independently. As a result, the lagging and jittering we typically see when opening an article goes away.
+
+Unlike Facebook, whose Instant Articles are designed for its social network, Google is working with websites including Twitter and Pinterest to use AMP pages too. Some people are also putting their resumes into AMP pages. All told, Galfi said 5,900 developers have begun to try out the technology.
+
+In April, Google started to prioritize Web pages that are better suited to mobile devices in search results over pages that aren't, an event the media dubbed &quot;mobilegeddon.&quot;
+
+There is a potential downside to the shift to AMP pages. If a company doesn't adopt them, slower load times could mean a page gets dinged in Google's search ranking. Or a faster-loading page by a less-reputable news source might get more prime-time placement. The company said loading speed is only one of more than 200 things Google looks at when ranking search results.
+
+&quot;It's absolutely still about relevancy,&quot; said Galfi. &quot;Speed is an important signal, but not the only one.&quot;
+
+For now, AMP pages will only be available on Google search in mobile Web browsers. It will make its way to the Google search app &quot;soon.&quot;</article>
+      <images>
+        <image></image>
+      </images>
+      <author>Richard Nieva</author>
+      <publishDate>2016-02-23T00:00:00+00:00</publishDate>
+      <videos>
+        
+      </videos>
+      <feeds>
+        
+      </feeds>
+    </result>
